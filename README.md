@@ -1,2 +1,2 @@
-# Shivshreyas.gihub.io
+# Adare.io
 First Basic Restaurant landing Website
