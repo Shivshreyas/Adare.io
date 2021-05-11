@@ -32,7 +32,10 @@ header
         Text-align: center;
         padding-top: 14px; 
         padding-bottom: 14px; 
-             
+        border-style: solid;
+        border-color: rgba(226, 218, 218, 0.822);
+        border-width: 2px;
+           
     }
     
     main 
@@ -67,17 +70,25 @@ header
         font-family: Arial, Helvetica, sans-serif;
     }
     
-    a{
-        color:white;
-        font-family: Arial, Helvetica, sans-serif;
+    p a{
+        color:rgb(224, 236, 236);
+        font-family: 'Sanchez', serif;
+        font-size: 22px;
         /* text-decoration: none; to remove the underline */
+    }
+
+    a {
+        color:rgb(224, 236, 236);
+        font-family: 'Sanchez', serif;
+        font-size: 22px;
+
     }
     
 
     nav a {
         text-decoration:none;
         font-size: 15px;
-        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-family: 'Sanchez', serif;
         padding-left: 10px;
         padding-right: 10px;
     }
@@ -91,10 +102,12 @@ header
             }
         
      main h1 {
-         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+        font-family: 'Sanchez', serif;
          
              }
 
      main p {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            
+        font-family: 'Sanchez', serif;
              }
