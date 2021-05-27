@@ -1,2 +1,2 @@
 # Adare.io
-First Basic Restaurant landing Page.
+## First Basic Restaurant landing Page.
